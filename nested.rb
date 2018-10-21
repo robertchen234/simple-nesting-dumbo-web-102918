@@ -16,7 +16,7 @@ def hopper
         }
      }
      
-programmer_hash = {:known_for => "COBOL", :languages => ["COBOL", "FORTRAN"]}
+  programmer_hash = {:known_for => "COBOL", :languages => ["COBOL", "FORTRAN"]}
 
 end
 
@@ -38,6 +38,8 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
+     
+  
 end
 
 def dennis_ritchies_language
